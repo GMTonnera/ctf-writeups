@@ -9,7 +9,7 @@
 # Writeup
 
 ## 1. Etapa de Reconhecimento
----
+
 ### 1.1 Enumeração de Portas
 
 Ao spawnar máquina e receber o endereço IP `<TARGET_IP>` da máquina alvo, foi feito uma enumeração dos serviços que estão hospedados na máquina, por meio do comando:
