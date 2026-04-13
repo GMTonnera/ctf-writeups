@@ -1,12 +1,12 @@
-# Writeup
-
 > [!note]
-> 
-> **Challenge:** Simple CTF
-> **Dificuldade:** Easy
-> **Plaraforma:** TryHackMe
-> **Link:**
-> **Autor:** hi im kvothe
+>
+> - **Challenge:** Simple CTF
+> - **Dificuldade:** Easy
+> - **Plaraforma:** TryHackMe
+> - **Link:** https://tryhackme.com/room/easyctf 
+> - **Autor:** hi im kvothe
+
+# Writeup
 
 ## 1. Etapa de Reconhecimento
 ---
